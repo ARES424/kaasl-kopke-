@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="b3U7dUqQOLXpikCch175" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="j(.m8!2PpDLKs$B9fR-}"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # # # . . 
+        # . # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="D~@JVQ8,Q[3LHp%GR9/@"><field name="LEDS">`
+        # # # # . 
+        # . . # . 
+        # # # # . 
+        # . . # . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="?{dLj}PVY,mD#]rxfx~`"><field name="LEDS">`
+        # # # # . 
+        # . . # . 
+        # . . # . 
+        # # # # . 
+        # . # . .
+        `</field><next><block type="device_show_leds" id=";pv.^.VG)C;oEDJloK$!"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # # #
+        `</field><next><block type="device_show_leds" id="Mcr4rkCX#rF].9-[g=YD"><field name="LEDS">`
+        # # # # . 
+        # . . # . 
+        # # # # . 
+        # . . # . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="^x:V*R)$V_MM3K}]Pd-$"><field name="LEDS">`
+        # # # # . 
+        # . . . . 
+        # # # # . 
+        . . . # . 
+        # # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="0(:shmxU_^}B,/H[d$}z" x="301" y="1168"><field name="NAME">Gesture.Shake</field></block><block type="device_button_event" id="rDgaWDR=FX),Y,%6])Ni" x="283" y="1291"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="q[`+vbm-7(s${N2eol?u"><field name="i">IconNames.House</field></block></statement></block><block type="device_button_event" id="4t:ecr9)||=w=ZsRraTR" x="275" y="1436"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="Q0)U7@E7bExZC?dpYatf"><field name="i">IconNames.Tortoise</field></block></statement></block><block type="device_button_event" id="sw%X2FhYXanYpkLhL-0%" x="281" y="1590"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_print_message" id="%`a)F-*tc}0It4uj~JnP"><value name="text"><shadow type="text" id="=E,3~vlg6QUkL8eQNr!f"><field name="TEXT">barlas cayci</field></shadow></value></block></statement></block></xml>
